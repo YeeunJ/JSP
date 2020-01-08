@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-
+	<% out.print ( "¿À´ÃÀº :" + java.util.Calendar.getInstance (). getTime ()); %>  
 </body>
 </html>
