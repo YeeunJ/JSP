@@ -7,9 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<% String name="hong"; %>
-	<h1>[<%=name%>] Hello World :)</h1>
-	
-	<%out.print(2*5); %>
+<%response.sendRedirect("https://www.google.com/"); %>
 </body>
 </html>

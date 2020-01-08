@@ -7,9 +7,13 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<% String name="hong"; %>
-	<h1>[<%=name%>] Hello World :)</h1>
-	
-	<%out.print(2*5); %>
+<%
+
+String name=request.getParameter("uname");
+out.print("Welcome"+name);
+
+session.setAttribute("user",name);
+%>
+<a href="second.jsp">second jsp page</a>
 </body>
 </html>

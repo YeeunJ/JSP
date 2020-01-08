@@ -7,9 +7,11 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<% String name="hong"; %>
-	<h1>[<%=name%>] Hello World :)</h1>
-	
-	<%out.print(2*5); %>
+<%
+out.print("Welcome "+request.getParameter("uname"));
+
+String driver = config.getInitParameter("dname");
+out.print("driver name is = "+driver);
+%>
 </body>
 </html>
