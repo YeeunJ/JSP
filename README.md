@@ -12,3 +12,15 @@ JSP practice
 [JSP 1 내용 정리](https://velog.io/@ye050425/JSP-JSP-내용-정리-efk54rj2d7)
 
 -------
+
+------
+## 21700119
+
+### JSP 1
+[JSP 개발환경 만들기](https://dynalist.io/d/xqTmqvgQJFBj72s0o3O8txGe)
+
+[JSP 1 실습](https://github.com/YeeunJ/JSP/tree/master/project/WebContent)
+
+[JSP 1 내용 정리]()
+
+-------
