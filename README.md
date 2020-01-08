@@ -23,3 +23,14 @@ JSP practice
 [JSP 1 내용 정리]()
 
 -------
+
+## Seoina
+
+### JSP 1
+[JSP 개발환경 만들기](https://velog.io/@sia2650/개발환경-설치-방법-41k54z4ch4)
+
+[JSP 1 실습](https://github.com/YeeunJ/JSP/tree/master/JSP/WebContent)
+
+[JSP 1 내용 정리](https://velog.io/@sia2650/JSPtutorial)
+
+-------
