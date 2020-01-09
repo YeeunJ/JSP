@@ -14,17 +14,43 @@ JSP practice
 ### JSP2
 [Directive Elements 정리](https://velog.io/@ye050425/JSP-JSP-directive-%EC%A0%95%EB%A6%AC)
 
--> 실습 파일: [실습1](./YeeunJ_JSP/WebContent/date.jsp)
+-> 실습 파일:
+[page_directive.jsp](./YeeunJ_JSP/WebContent/page_directive.jsp) 
+[include_direction.jsp](./YeeunJ_JSP/WebContent/include_direction.jsp) 
+[date.jsp](./YeeunJ_JSP/WebContent/date.jsp) 
+[myerrorpage.jsp](./YeeunJ_JSP/WebContent/myerrorpage.jsp) 
+[errorPage.jsp](./YeeunJ_JSP/WebContent/errorPage.jsp) 
 
 [Action Elements 정리](https://velog.io/@ye050425/JSP-JSP-Action-Tags-%EC%A0%95%EB%A6%AC)
 
--> 실습 파일: [실습1]()
+-> 실습 파일: 
+[action_jsp.jsp](./YeeunJ_JSP/WebContent/action_jsp.jsp)
+[forward_tag.jsp](./YeeunJ_JSP/WebContent/forward_tag.jsp)
+[include_tag.jsp](./YeeunJ_JSP/WebContent/include_tag.jsp)
+[index2.html](./YeeunJ_JSP/WebContent/index2.html)
+[process.jsp](./YeeunJ_JSP/WebContent/process.jsp)
+[process2.jsp](./YeeunJ_JSP/WebContent/process2.jsp)
+[printdate.jsp](./YeeunJ_JSP/WebContent/printdate.jsp)
+
+[Calculator.java](./YeeunJ_JSP/src/com/hello/Calculator.java)
+[User.java](./YeeunJ_JSP/src/com/hello/User.java)
 
 [EL(Expression Language) 정리](https://velog.io/@ye050425/JSP-Expression-Language-EL-%EB%82%B4%EC%9A%A9-%EC%A0%95%EB%A6%AC)
 
--> 실습 파일: [실습1]()
+-> 실습 파일: 
+[EL_example.jsp](./YeeunJ_JSP/WebContent/EL_example.jsp)
+[EL_example2.jsp](./YeeunJ_JSP/WebContent/EL_example2.jsp)
+[EL_example3.jsp](./YeeunJ_JSP/WebContent/EL_example3.jsp)
+[process3.jsp](./YeeunJ_JSP/WebContent/process3.jsp)
+[process4.jsp](./YeeunJ_JSP/WebContent/process4.jsp)
+[process5.jsp](./YeeunJ_JSP/WebContent/process5.jsp)
 
-[회원가입 예제 만들기]()
+회원가입 예제 만들기
+[memberInput.jsp](./YeeunJ_JSP/WebContent/memberInput.jsp)
+[example22.jsp](./YeeunJ_JSP/WebContent/example22.jsp)
+[memberOutput.jsp](./YeeunJ_JSP/WebContent/memberOutput.jsp)
+
+[MemberBean.java](./YeeunJ_JSP/src/com/hello/MemberBean.java)
 
 -------
 
