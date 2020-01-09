@@ -48,4 +48,20 @@ JSP practice
 
 [JSP 1 내용 정리](https://velog.io/@sia2650/JSPtutorial)
 
+
+### JSP2
+[Directive Elements 정리](https://velog.io/@sia2650/Expression-Language-EL-in-JSP-9tk566vm0x)
+
+-> 실습 파일: [실습1](https://github.com/YeeunJ/JSP/blob/master/JSP/WebContent/0109/directives.jsp)
+
+[Action Elements 정리](https://velog.io/@sia2650/JSP-Action-Elements-61k564ks5t)
+
+-> 실습 파일: [실습1](https://github.com/YeeunJ/JSP/blob/master/JSP/WebContent/0109/actions.jsp)
+
+[EL(Expression Language) 정리](https://velog.io/@sia2650/Expression-Language-EL-in-JSP-9tk566vm0x)
+
+-> 실습 파일: [실습1](https://github.com/YeeunJ/JSP/blob/master/JSP/WebContent/0109/expression.jsp)
+
+[회원가입 예제 만들기](https://github.com/YeeunJ/JSP/blob/master/JSP/WebContent/0109/input.jsp)
+
 -------
