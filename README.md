@@ -5,25 +5,27 @@ JSP practice
 ## YeeunJ
 
 ### JSP 1
-[JSP 개발환경 만들기](https://velog.io/@ye050425/JSP-개발환경-만들기-3ak54mdaf7)
++ [JSP 개발환경 만들기](https://velog.io/@ye050425/JSP-개발환경-만들기-3ak54mdaf7)
 
-[JSP 1 실습](https://github.com/YeeunJ/JSP/tree/master/YeeunJ_JSP/WebContent)
++ [JSP 1 실습](https://github.com/YeeunJ/JSP/tree/master/YeeunJ_JSP/WebContent)
 
-[JSP 1 내용 정리](https://velog.io/@ye050425/JSP-JSP-내용-정리-efk54rj2d7)
++ [JSP 1 내용 정리](https://velog.io/@ye050425/JSP-JSP-내용-정리-efk54rj2d7)
 
 ### JSP2
-[Directive Elements 정리](https://velog.io/@ye050425/JSP-JSP-directive-%EC%A0%95%EB%A6%AC)
++ **[Directive Elements 정리](https://velog.io/@ye050425/JSP-JSP-directive-%EC%A0%95%EB%A6%AC)**
 
 -> 실습 파일:
+
 [page_directive.jsp](./YeeunJ_JSP/WebContent/page_directive.jsp) 
 [include_direction.jsp](./YeeunJ_JSP/WebContent/include_direction.jsp) 
 [date.jsp](./YeeunJ_JSP/WebContent/date.jsp) 
 [myerrorpage.jsp](./YeeunJ_JSP/WebContent/myerrorpage.jsp) 
 [errorPage.jsp](./YeeunJ_JSP/WebContent/errorPage.jsp) 
 
-[Action Elements 정리](https://velog.io/@ye050425/JSP-JSP-Action-Tags-%EC%A0%95%EB%A6%AC)
++ **[Action Elements 정리](https://velog.io/@ye050425/JSP-JSP-Action-Tags-%EC%A0%95%EB%A6%AC)**
 
 -> 실습 파일: 
+
 [action_jsp.jsp](./YeeunJ_JSP/WebContent/action_jsp.jsp)
 [forward_tag.jsp](./YeeunJ_JSP/WebContent/forward_tag.jsp)
 [include_tag.jsp](./YeeunJ_JSP/WebContent/include_tag.jsp)
@@ -35,9 +37,10 @@ JSP practice
 [Calculator.java](./YeeunJ_JSP/src/com/hello/Calculator.java)
 [User.java](./YeeunJ_JSP/src/com/hello/User.java)
 
-[EL(Expression Language) 정리](https://velog.io/@ye050425/JSP-Expression-Language-EL-%EB%82%B4%EC%9A%A9-%EC%A0%95%EB%A6%AC)
++ **[EL(Expression Language) 정리](https://velog.io/@ye050425/JSP-Expression-Language-EL-%EB%82%B4%EC%9A%A9-%EC%A0%95%EB%A6%AC)**
 
 -> 실습 파일: 
+
 [EL_example.jsp](./YeeunJ_JSP/WebContent/EL_example.jsp)
 [EL_example2.jsp](./YeeunJ_JSP/WebContent/EL_example2.jsp)
 [EL_example3.jsp](./YeeunJ_JSP/WebContent/EL_example3.jsp)
@@ -45,7 +48,7 @@ JSP practice
 [process4.jsp](./YeeunJ_JSP/WebContent/process4.jsp)
 [process5.jsp](./YeeunJ_JSP/WebContent/process5.jsp)
 
-회원가입 예제 만들기
++ **회원가입 예제 만들기**
 [memberInput.jsp](./YeeunJ_JSP/WebContent/memberInput.jsp)
 [example22.jsp](./YeeunJ_JSP/WebContent/example22.jsp)
 [memberOutput.jsp](./YeeunJ_JSP/WebContent/memberOutput.jsp)
