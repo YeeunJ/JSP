@@ -33,7 +33,7 @@ Current Time:
 <br><br>
 
 <form action="welcome.jsp">
-<input type="text" name="unname"><br/>
+<input type="text" name="uname"><br/>
 <input type="submit" value="go">
 </form>
 
@@ -66,14 +66,14 @@ int cube(int n){
 <h2>JSP Response</h2>
 
 <form action="welcome2.jsp">
-<input type="text" name="unname"><br/>
+<input type="text" name="uname"><br/>
 <input type="submit" value="go">
 </form>
 
 <br><hr><br>
 
 <form action="welcome3.jsp">
-<input type="text" name="unname"><br/>
+<input type="text" name="uname"><br/>
 <input type="submit" value="go">
 </form>
 
@@ -81,7 +81,7 @@ int cube(int n){
 
 <h2>Session implicit object</h2>
 <form action="first.jsp">
-<input type="text" name="unname">
+<input type="text" name="uname">
 <input type="submit" value="go"><br/>
 </form>
 
