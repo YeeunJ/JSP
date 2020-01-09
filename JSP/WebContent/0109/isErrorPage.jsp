@@ -1,13 +1,15 @@
 <%@ page language="java" contentType="text/html; charset=UTF-8"
     pageEncoding="UTF-8"%>
-<%@ page isErrorPage = "true" %>
 <!DOCTYPE html>
 <html>
 <head>
 <meta charset="UTF-8">
-<title>error page</title>
+<title>isErrorPage</title>
 </head>
 <body>
-<p >Sorry following exception occured: <%= exception %></p>
+<%@ page isErrorPage="true" %>
+
+Sorry an exception occured! <br/>
+The exception is: <%= exception %>
 </body>
 </html>
