@@ -10,6 +10,7 @@ JSP practice
 + [JSP 1 실습](https://github.com/YeeunJ/JSP/tree/master/YeeunJ_JSP/WebContent)
 
 + [JSP 1 내용 정리](https://velog.io/@ye050425/JSP-JSP-내용-정리-efk54rj2d7)
+<br/>
 
 ### JSP2
 + **[Directive Elements 정리](https://velog.io/@ye050425/JSP-JSP-directive-%EC%A0%95%EB%A6%AC)**
@@ -54,6 +55,7 @@ JSP practice
 [memberOutput.jsp](./YeeunJ_JSP/WebContent/memberOutput.jsp)
 
 [MemberBean.java](./YeeunJ_JSP/src/com/hello/MemberBean.java)
+<br/>
 
 -------
 
