@@ -51,6 +51,8 @@ JSP practice
 
 + **회원가입 예제 만들기**
 
+->실습 파일: 
+
 [memberInput.jsp](./YeeunJ_JSP/WebContent/memberInput.jsp)
 [example22.jsp](./YeeunJ_JSP/WebContent/example22.jsp)
 [memberOutput.jsp](./YeeunJ_JSP/WebContent/memberOutput.jsp)
