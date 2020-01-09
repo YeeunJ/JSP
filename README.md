@@ -12,15 +12,15 @@ JSP practice
 [JSP 1 내용 정리](https://velog.io/@ye050425/JSP-JSP-내용-정리-efk54rj2d7)
 
 ### JSP2
-[Directive Elements 정리]()
+[Directive Elements 정리](https://velog.io/@ye050425/JSP-JSP-directive-%EC%A0%95%EB%A6%AC)
+
+-> 실습 파일: [실습1](./YeeunJ_JSP/WebContent/date.jsp)
+
+[Action Elements 정리](https://velog.io/@ye050425/JSP-JSP-Action-Tags-%EC%A0%95%EB%A6%AC)
 
 -> 실습 파일: [실습1]()
 
-[Action Elements 정리]()
-
--> 실습 파일: [실습1]()
-
-[EL(Expression Language) 정리]()
+[EL(Expression Language) 정리](https://velog.io/@ye050425/JSP-Expression-Language-EL-%EB%82%B4%EC%9A%A9-%EC%A0%95%EB%A6%AC)
 
 -> 실습 파일: [실습1]()
 
