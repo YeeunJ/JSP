@@ -11,6 +11,21 @@ JSP practice
 
 [JSP 1 내용 정리](https://velog.io/@ye050425/JSP-JSP-내용-정리-efk54rj2d7)
 
+### JSP2
+[Directive Elements 정리]()
+
+-> 실습 파일: [실습1]()
+
+[Action Elements 정리]()
+
+-> 실습 파일: [실습1]()
+
+[EL(Expression Language) 정리]()
+
+-> 실습 파일: [실습1]()
+
+[회원가입 예제 만들기]()
+
 -------
 
 ## 21700119
