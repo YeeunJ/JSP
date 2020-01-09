@@ -33,10 +33,10 @@ public class Register {
 		this.email=email;
 	}
 	
-	public String get_phone_select() {
+	public String getphone_select() {
 		return phone_select;
 	}
-	public void set_phone_select(String phone_select) {
+	public void setphone_select(String phone_select) {
 		this.phone_select=phone_select;
 	}
 	
