@@ -75,6 +75,11 @@ JSP practice
 [Message.java](./YeeunJ_JSP/src/com/hello/Message.java)
 [Simple.java](./YeeunJ_JSP/src/com/hello/Simple.java)
 
++ [JSP와 mysql 연동](https://velog.io/@ye050425/JSP-JSP%EC%99%80-mysql-%EC%97%B0%EB%8F%99-wdk57jqr43)
+
+->실습 파일:
+
+
 -------
 
 ## 21700119
