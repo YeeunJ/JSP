@@ -59,6 +59,14 @@ JSP practice
 [MemberBean.java](./YeeunJ_JSP/src/com/hello/MemberBean.java)
 <br/>
 
+### JSP3
+
++ [JSTL 정리](https://velog.io/@ye050425/JSP-JSTL-%EC%A0%95%EB%A6%AC)
+
+->실습 파일:
+
+
+
 -------
 
 ## 21700119
