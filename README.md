@@ -59,6 +59,22 @@ JSP practice
 [MemberBean.java](./YeeunJ_JSP/src/com/hello/MemberBean.java)
 <br/>
 
+### JSP3
+
++ [JSTL 정리](https://velog.io/@ye050425/JSP-JSTL-%EC%A0%95%EB%A6%AC)
+
+->실습 파일:
+
+[JSTL_Core_Tag.jsp](./YeeunJ_JSP/WebContent/JSTL_Core_Tag.jsp)
+[JSTL_Core_tag_redirection.jsp](./YeeunJ_JSP/WebContent/JSTL_Core_tag_redirection.jsp)
+[JSTL_core_tag_error.jsp](./YeeunJ_JSP/WebContent/JSTL_core_tag_error.jsp)
+[JSTL_formatting_tag.jsp](./YeeunJ_JSP/WebContent/JSTL_formatting_tag.jsp)
+[JSTL_function_tag.jsp](./YeeunJ_JSP/WebContent/JSTL_function_tag.jsp)
+
+[Main.java](./YeeunJ_JSP/src/com/hello/Main.java)
+[Message.java](./YeeunJ_JSP/src/com/hello/Message.java)
+[Simple.java](./YeeunJ_JSP/src/com/hello/Simple.java)
+
 -------
 
 ## 21700119
