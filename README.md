@@ -65,6 +65,19 @@ JSP practice
 
 ->실습 파일:
 
+[JSTL_Core_Tag.jsp](./YeeunJ_JSP/WebContent/JSTL_Core_Tag.jsp)
+[JSTL_Core_tag_redirection.jsp](./YeeunJ_JSP/WebContent/JSTL_Core_tag_redirection.jsp)
+[JSTL_core_tag_error.jsp](./YeeunJ_JSP/WebContent/JSTL_core_tag_error.jsp)
+[JSTL_formatting_tag.jsp](./YeeunJ_JSP/WebContent/JSTL_formatting_tag.jsp)
+[JSTL_function_tag.jsp](./YeeunJ_JSP/WebContent/JSTL_function_tag.jsp)
+
+[Main.java](./YeeunJ_JSP/src/com/hello/Main.java)
+[Message.java](./YeeunJ_JSP/src/com/hello/Message.java)
+[Simple.java](./YeeunJ_JSP/src/com/hello/Simple.java)
+
++ [JSP와 mysql 연동](https://velog.io/@ye050425/JSP-JSP%EC%99%80-mysql-%EC%97%B0%EB%8F%99-wdk57jqr43)
+
+->실습 파일:
 
 
 -------
