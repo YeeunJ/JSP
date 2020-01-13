@@ -9,7 +9,7 @@
 <body>
 <%= request.getRequestURI() %><br>
 <h3>회원 가입하기</h3>
-<form method="post" action="<%= request.getContextPath() %>/insert.jsp" >
+<form method="post" action="<%= request.getContextPath() %>/form1_ok.jsp" >
     <p>아이디</p>
     <input type="text" name="id" placeholder="Enter Name">
  
