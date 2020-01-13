@@ -6,12 +6,12 @@
 <head>
 <meta charset="UTF-8">
 <title>Insert title here</title>
+<base href="/Users/jeong-yeeun/Documents/new">
 </head>
 <body>
 	<%  
 	MultipartRequest m = new MultipartRequest(request, "/Users/jeong-yeeun/Documents/new");  
 	out.print("successfully uploaded");  
-	  
-	%>  
+	%>
 </body>
 </html>
