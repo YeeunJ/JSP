@@ -61,7 +61,7 @@ JSP practice
 
 ### JSP3
 
-+ [JSTL 정리](https://velog.io/@ye050425/JSP-JSTL-%EC%A0%95%EB%A6%AC)
++ **[JSTL 정리](https://velog.io/@ye050425/JSP-JSTL-%EC%A0%95%EB%A6%AC)**
 
 ->실습 파일:
 
@@ -75,7 +75,7 @@ JSP practice
 [Message.java](./YeeunJ_JSP/src/com/hello/Message.java)
 [Simple.java](./YeeunJ_JSP/src/com/hello/Simple.java)
 
-+ [JSP와 mysql 연동](https://velog.io/@ye050425/JSP-JSP%EC%99%80-mysql-%EC%97%B0%EB%8F%99-wdk57jqr43)
++ **[JSP와 mysql 연동](https://velog.io/@ye050425/JSP-JSP%EC%99%80-mysql-%EC%97%B0%EB%8F%99-wdk57jqr43)**
 
 ->실습 파일:
 
@@ -85,7 +85,7 @@ JSP practice
 [User.java](./YeeunJ_JSP/src/com/hello/User.java)
 [UserDAO.java](./YeeunJ_JSP/src/com/hello/UserDAO.java)
 
-+ CRUD Example
++ **CRUD Example**
 
 ->실습 파일:
 
@@ -102,6 +102,16 @@ JSP practice
 
 [CRUD_User.java](./YeeunJ_JSP/src/com/hello/CRUD_User.java)
 [CRUD_UserDao.java](./YeeunJ_JSP/src/com/hello/CRUD_UserDao.java)
+
+### JSP4
+
++ **Registration form, login form, uploading file, downloading file**
+
+->실습 파일:
+
+[jsp파일](https://github.com/YeeunJ/JSP/tree/master/YeeunJ_JSP/WebContent/JSP4)
+
+[java 파일](https://github.com/YeeunJ/JSP/tree/master/YeeunJ_JSP/src/com/jsp4)
 
 -------
 
