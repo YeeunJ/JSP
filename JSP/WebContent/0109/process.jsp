@@ -8,7 +8,7 @@
 </head>
 <body>
 
-<jsp:useBean id="u" class="jsp.User">
+<jsp:useBean id="u" class="jsp.userBean">
 </jsp:useBean>
 <jsp:setProperty property="*" name="u"/>
 
