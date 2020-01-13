@@ -6,9 +6,8 @@
 <head>
 <meta charset="UTF-8">
 <title>error page</title>
-Sorry following exception occured:<%= exception %>
 </head>
 <body>
-
+<p >Sorry following exception occured: <%= exception %></p>
 </body>
 </html>
