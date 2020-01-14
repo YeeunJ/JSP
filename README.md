@@ -123,4 +123,18 @@ JSP practice
 
 [회원가입 예제 만들기](https://github.com/YeeunJ/JSP/blob/master/JSP/WebContent/0109/input.jsp)
 
+
+### JSP4
+
++ **Registration form, login form, uploading file, downloading file**
+
+->실습 파일:
+
+[registration_form](https://github.com/YeeunJ/JSP/tree/HEAD/JSP/WebContent/0113/Registration-form)
+[login_form](https://github.com/YeeunJ/JSP/tree/HEAD/JSP/WebContent/0113/log)
+[upload_form](https://github.com/YeeunJ/JSP/tree/HEAD/JSP/WebContent/0113/upload_f)
+[download_form](https://github.com/YeeunJ/JSP/tree/HEAD/JSP/WebContent/0113/download_f)
+
+[업로드, 다운로드 예제](https://github.com/YeeunJ/JSP/blob/HEAD/JSP/WebContent/0113/uploadForm.html)
+
 -------
