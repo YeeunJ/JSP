@@ -12,9 +12,6 @@ session.setAttribute("session","TRUE");
 }  
 else  
 {  
-out.print("Sorry, email or password error");  
-%>  
-<jsp:include page="index.jsp"></jsp:include>  
-<%  
+out.print("Sorry, email or password error");   
 }  
 %>  
