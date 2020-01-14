@@ -14,5 +14,15 @@
 	</classpathentry>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="/Users/sia/git/repository/JSP/WebContent/WEB-INF/lib/jstl-1.2.jar"/>
+	<classpathentry kind="lib" path="/Users/sia/git/repository/JSP/WebContent/WEB-INF/lib/mysql-connector-java-8.0.18.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/sia/git/repository/JSP/WebContent/WEB-INF/lib/cos.jar"/>
+	<classpathentry kind="lib" path="/Users/sia/git/repository/JSP/WebContent/WEB-INF/lib/commons-lang3-3.9.jar"/>
+	<classpathentry kind="lib" path="/Users/sia/git/repository/JSP/WebContent/WEB-INF/lib/commons-fileupload-1.3.jar"/>
+	<classpathentry kind="lib" path="/Users/sia/git/repository/JSP/WebContent/WEB-INF/lib/commons-io-2.4.jar"/>
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>
