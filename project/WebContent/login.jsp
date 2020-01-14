@@ -11,8 +11,8 @@ String login_msg=(String)request.getAttribute("login_msg");
 if(login_msg!=null){  
 out.print(login_msg);  
 }  
- %>  
- <br/>  
+%>  
+<br/>  
 <form action="loginprocess.jsp" method="post">  
 Name:<input type="text" name="name"/><br/><br/>
 Email:<input type="text" name="email"/><br/><br/>  
