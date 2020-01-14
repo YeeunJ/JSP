@@ -24,9 +24,9 @@ String orgfileName2=request.getParameter("orgfileName2");
 	첨부파일(클릭시 다운로드)<br>
 	
 	- 파일 1: <a href="download.jsp?fileName=<%=orgfileName1 %>"><%=orgfileName1 %></a><br/>
-	<img src="/JSP/WebContent/upload/<%=fileName1 %>" width=400 height=300></img><br/>
+	<img src="/JSP/upload/<%=fileName1 %>" width=400 height=300></img><br/>
 	- 파일 2: <a href="download.jsp?fileName=<%=fileName2 %>"><%=orgfileName2 %></a><br/>
-	<img src="/JSP/WebContent/upload/<%=fileName2 %>" width=400 height=300></img><br/>
+	<img src="/JSP/upload/<%=fileName2 %>" width=400 height=300></img><br/>
 
 </body>
 </html>
