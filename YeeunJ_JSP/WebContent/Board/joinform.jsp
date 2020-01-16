@@ -31,7 +31,7 @@
       <input type="password" class="form-control" id="pwd" placeholder="Enter password" name="pwd">
     </div>
     <button type="submit" class="btn btn-default">Submit</button>
-    <button type="button" class="btn btn-default" onclick="index.jsp">login</button>
+    <button type="button" class="btn btn-default" onclick="location.href='index.jsp'">login</button>
   </form>
 </div>
 </body>
